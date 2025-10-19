@@ -1,0 +1,23 @@
+td{
+    color: aliceblue;
+    background-color: black;
+}
+.highlight {
+  background-color: rgb(167, 163, 163);
+  color: white;
+}
+.highlight1 {
+  background-color: rgb(109, 108, 108);
+  color: rgb(226, 220, 220);
+}
+table {
+      border-collapse: collapse; 
+      width: 100%;
+      text-align: center;
+      font-family: Arial, sans-serif;
+      margin-bottom: 100px;
+    }
+    th, td {
+     
+      padding: 20px;
+    }

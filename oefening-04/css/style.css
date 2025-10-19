@@ -1,0 +1,25 @@
+td{ color: aliceblue; 
+    background-color: black; 
+}
+ .highlight { background-color: rgb(233, 9, 9); 
+    color: white; 
+}
+  .highlight1 { background-color: rgb(243, 241, 241)
+    ; color: rgb(226, 220, 220); 
+} 
+  table { border-collapse: collapse; width: 100%; 
+    text-align: center; font-family: Arial, sans-serif; 
+    margin-bottom: 100px; 
+}
+  th, td { padding: 20px; } 
+  .highlight2 { background-color: rgb(117, 7, 128); 
+    color: rgb(226, 220, 220);
+} 
+  .highlight3 { 
+    
+    background-color: rgb(235, 170, 218); 
+    color: rgb(17, 1, 1); 
+} 
+  .highlight4 { background-color: rgb(70, 11, 209); 
+    color: rgb(226, 220, 220); 
+}
